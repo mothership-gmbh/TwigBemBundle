@@ -1,0 +1,4 @@
+services:
+  twig_bem.bem_extension:
+    class: \Mothership\TwigBemBundle\Twig\BemExtension
+    tags: ['twig.extension']
