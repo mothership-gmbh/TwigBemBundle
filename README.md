@@ -13,7 +13,7 @@ of the Composer documentation.
 Open a command console, enter your project directory and execute:
 
 ```console
-$ composer require mothership-gmbh/twig-bem-bundle
+$ composer require mothership/twig-bem-bundle
 ```
 
 ### Applications that don't use Symfony Flex
@@ -24,7 +24,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```console
-$ composer require mothership-gmbh/twig-bem-bundle
+$ composer require mothership/twig-bem-bundle
 ```
 
 #### Step 2: Enable the Bundle

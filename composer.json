@@ -1,5 +1,5 @@
 {
-    "name": "mothership-gmbh/twig-bem-bundle",
+    "name": "mothership/twig-bem-bundle",
     "description": "Symfony bundle that adds BEM helper functions to twig",
     "type": "symfony-bundle",
     "license": "MIT",
